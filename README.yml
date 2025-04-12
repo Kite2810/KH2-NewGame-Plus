@@ -48,3 +48,13 @@ Q: Ultima can be smithed by Moogle, how works that now?
 
 A: I replaced Ultima with "Edge of Ultima" Item-ID45. It uses W_EX010_Z0 as name for all Versions.
    So you can add it as a new Keyblade of your choice or leave it like that.
+
+
+Q: Will it ever break because of another Update?
+
+A: No, since i did NOT used a LUA Script.
+
+
+Q: Which platforms are supported?
+
+A: Steam and Epic
